@@ -17,7 +17,8 @@ University of Queensland, St Lucia, Queensland
 *Supervisor:* Prof Jennifer Ovenden 
 
 **Coursework Masters in Bioinformatics (2 years)** 
-<br>University of Queensland, St Lucia, Queensland (*July 2015 – July 2017*) 
+<br>University of Queensland, St Lucia, Queensland (*July 2015 – July 2017*)    
+
 **B. Applied Science with Honors (Marine Environment)** 
 Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*) 
 
