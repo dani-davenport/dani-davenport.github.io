@@ -14,7 +14,7 @@ author: Danielle Davenport
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "index"
+#  About Me: "index"
   News: "news"
   Resume: "resume"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
