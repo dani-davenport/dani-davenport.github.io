@@ -9,72 +9,54 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 
 ### Education
 
-**PhD, Molecular Fisheries Laboratory**
+**PhD, Molecular Fisheries Laboratory** 
+University of Queensland, St Lucia, Queensland 
+*2017 - Current* 
+*Thesis Topic:* Genomics for monitoring shark populations 
+*Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations 
+*Supervisor:* Prof Jennifer Ovenden 
 
-University of Queensland, St Lucia, Queensland
-
-*2017 - Current*
-
-*Thesis Topic:* Genomics for monitoring shark populations.
-
-*Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations
-
-*Supervisor:* Prof Jennifer Ovenden
-
-**Coursework Masters in Bioinformatics (2 years)**
-<br>University of Queensland, St Lucia, Queensland<br>
-<br>*July 2015 – July 2017*<br>
-
-
-**B. Applied Science with Honors (Marine Environment)**
-
-Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Tasmania
-
-*2011-2014*
-
+**Coursework Masters in Bioinformatics (2 years)** 
+<br>University of Queensland, St Lucia, Queensland (*July 2015 – July 2017*) 
+**B. Applied Science with Honors (Marine Environment)** 
+Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*) 
 
 ### Recent Professional History (Academic)
 
 *2018-Current*
-**Tutors@UQ, University of Queensland**
-The University of Queensland, St Lucia, Teaching Assistant
-
+**Tutors@UQ, University of Queensland** 
+Teaching Assistant -The University of Queensland, St Lucia 
 Description: Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
 
 *2020 (Jan-March)*      
-**UQ Graduate School Career Development Intern, NOAA, Seattle, Washington, USA**
-North West Fisheries Science Center, NOAA, Seattle, Intern
-
+**UQ Graduate School Career Development Intern, NOAA, Seattle, Washington, USA** 
+Intern - North West Fisheries Science Center, NOAA, Seattle 
 Description: Working under Prof. Robin Waples, utilizing individual level genomic population simulations to address the conundrum of genetic distance and demographic independence for applications to fisheries management.
 
 *2017 – Current*         
-**Molecular Fisheries Laboratory, University of Queensland**
-School of Biomedical Sciences, St Lucia, Queensland, PhD Student
-
+**Molecular Fisheries Laboratory, University of Queensland** 
+PhD Student - School of Biomedical Sciences, St Lucia, Queensland 
 Description: PhD student on Project GenoJaws where her focus is contemporary and retrospective genomic analysis of white sharks. Work collaboratively with various data sets (genetic, temporal, environmental, morphological) to understand populations of marine species under the supervision of Prof. Jenny Ovenden. I has worked on population level projects for both conservation of species and commercial fisheries, and works as part of a broader group consulting on government reports and fisheries projects.
 
 *2016-2017*         
-**Diamantina Institute, Translational Research Institute (TRI)**
-Brisbane, Queensland, UQ Advantage Scholarship Summer Intern
-
+**Diamantina Institute, Translational Research Institute (TRI)** 
+UQ Advantage Scholarship Summer Intern - Brisbane, Queensland 
 Description: Working under Dr. Kim-Ahn Le Cao. Utilizing R, command line and python tools to test and implement mixOmics (multi-‘omic’ statistical methods) on biological data. Responsible for writing and publishing web content; maintaining and creating web tutorials; monitoring and responding to user-queries/technical issues.
 
 *2014-2015*         
-**Australian Seafood Industries (ASI)**
-Hobart, Tasmania, Research Officer Assistant
-
+**Australian Seafood Industries (ASI)** 
+Research Officer Assistant - Hobart, Tasmania 
 Description: Contributed to selective breeding research for disease resistance, phenotype and growth characteristics in Pacific Oysters. Danielle worked closely with both industry and research organizations including IMAS & CSIRO.
 
 *2014-2015*         
-**ITAS, University of Tasmania**
-Launceston Tasmania, ITAS Tutor
-
+**ITAS, University of Tasmania** 
+ITAS Tutor - Launceston Tasmania 
 Description: Provided theoretical tuition on subject specific content including the key discipline concepts, developing flexible learning alternatives, encouraged students to improve their academic skills, liaised with faculty staff and utilized alternative sources and services available within the university to improve the learning experience.
 
 
 *2011-2015*         
-**Student Center, University of Tasmania**
-Launceston, Tasmania, Student Learning Mentor
+**Student Center, University of Tasmania** 
+Student Learning Mentor - Launceston, Tasmania 
 Description: A peer mentor for undergraduate and postgraduate students, assisted with academic skills including report writing, essay structure, argument development and writing style. Danielle was a member of the winning team presented with the 2013 Teaching Merit Award.
 
 
