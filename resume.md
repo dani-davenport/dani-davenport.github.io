@@ -22,10 +22,8 @@ University of Queensland, St Lucia, Queensland
 *Supervisor:* Prof Jennifer Ovenden
 
 **Coursework Masters in Bioinformatics (2 years)**
-
-University of Queensland, St Lucia, Queensland
-
-*July 2015 – July 2017*
+<br>University of Queensland, St Lucia, Queensland<br>
+<br>*July 2015 – July 2017*<br>
 
 
 **B. Applied Science with Honors (Marine Environment)**
