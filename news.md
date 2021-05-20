@@ -13,4 +13,4 @@ I joined the [MarineOmics Working Group](https://marineomics.github.io/) with a 
 
 ## NOAA Internship <br>
 *Feb-March 2020*<br>
-I interned at the Northwest Fisheries Science Centre, NOAA in Seattle. The internship is run through the Univeristy of Queensland HDR Graduade Program. As part of the internship I am working on an ongoing project in collaboration with Prof. Robin Waples examining the relationship between migration and allele frequency   change using simulations. Check out the github repo for the project [here](https://github.com/tunaloveheart/Migration_Simulations).     
+I interned at the Northwest Fisheries Science Centre, NOAA in Seattle. The internship is run through the Univeristy of Queenslands HDR Graduade Program. As part of the internship I am working on an ongoing project in collaboration with Prof. Robin Waples examining the relationship between migration and allele frequency   change using simulations. Check out the github repo for the project [here](https://github.com/tunaloveheart/Migration_Simulations).     
