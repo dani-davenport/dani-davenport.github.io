@@ -13,7 +13,6 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 - University of Queensland, St Lucia, Queensland
 *- Current*
 
-
 *Thesis Topic:* Genomics for monitoring shark populations.
 
 *Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations
