@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Science + Fish + Books
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dani Davenport.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a PhD researcher at the University of Queensland, Australia, where I work in the Molecular Fisheries Lab apply genomic methods and theory to the management and conservation of marine populations. My PhD thesis - "Applications of genomic methods to investigate shark populations of conservation concern - will present a contemporary and retrospective genomic analysis to contribute to and improve the monitoring and conservation of sharks guided by current and relevant conservation and management questions.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am currently living in Halifax, Nova Scotia, Canada.
