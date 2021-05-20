@@ -9,7 +9,7 @@ Details to come
 
 ## RCN MarineOmics Working Group <br>
 *Dec 2020*<br>
-I joined the [MarineOmics Working Group](https://marineomics.github.io/) with a group for awesome ECR. The group is part of the part of the [RCN for Evolution in Changing Seas](https://rcn-ecs.github.io/) and was formed to promote reproducible and robust genomic research in marine science. I'll be working as a mentor to undergraduate interns who will systematically review the marine-genomics peer-reviewed literature and working on reproducible code for ddRAD popgen pipelines.<br>
+I joined the [MarineOmics Working Group](https://marineomics.github.io/) with a group for awesome ECR. The group is part of the part of the [RCN for Evolution in Changing Seas](https://rcn-ecs.github.io/) and was formed to promote reproducible and robust genomic research in marine science. I'll be working as a mentor to undergraduate interns who will systematically review the marine-genomics peer-reviewed literature and as part of a sub-commitee I will write a bunch of reproducible code for ddRAD popgen pipelines.<br>
 
 ## NOAA Internship <br>
 *Feb-March 2020*<br>
