@@ -9,25 +9,25 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 
 ### Education
 
-**PhD, Molecular Fisheries Laboratory**<br> 
-University of Queensland, St Lucia, Queensland<br> 
+**PhD, Molecular Fisheries Laboratory**<br>
+University of Queensland, St Lucia, Queensland<br>
 *2017 - Current*<br>
-*Thesis Topic:* Genomics for monitoring shark populations 
-*Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations 
+*Thesis Topic:* Genomics for monitoring shark populations<br>
+*Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations<br>
 *Supervisor:* Prof Jennifer Ovenden 
 
 **Coursework Masters in Bioinformatics (2 years)** 
 <br>University of Queensland, St Lucia, Queensland (*July 2015 – July 2017*)    
 
 **B. Applied Science with Honors (Marine Environment)** 
-Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*) 
+<br>Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*) 
 
 ### Recent Professional History (Academic)
 
 *2018-Current*
-**Tutors@UQ, University of Queensland** 
-Teaching Assistant -The University of Queensland, St Lucia 
-Description: Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
+<br>**Tutors@UQ, University of Queensland** 
+<br>Teaching Assistant -The University of Queensland, St Lucia 
+<br>Description: Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
 
 *2020 (Jan-March)*      
 **UQ Graduate School Career Development Intern, NOAA, Seattle, Washington, USA** 
