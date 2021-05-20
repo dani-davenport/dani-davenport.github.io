@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Resume
-subtitle: Hire me!
+subtitle: Danielle Davenport
 ---
 
-## Danielle Davenport
 
 I am a PhD researcher working in the Molecular Fisheries Laboratory at the University of Queensland investigating global populations of  sharks across temporal and spatial scales. Experienced student mentor and tutor; adept in R, python and bash scripting, with an emphasis on population genomic analysis for conservation and management outcomes.
 
@@ -13,11 +12,9 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 **University of Queensland, St Lucia, Queensland**
 *Current*
 PhD, Molecular Fisheries Laboratory
-
-Thesis Topic: Genomics for monitoring shark populations.
-Details: Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations.
-
-Supervisor: Prof Jennifer Ovenden
+-Thesis Topic: Genomics for monitoring shark populations.
+-Details: Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations.
+-Supervisor: Prof Jennifer Ovenden
 
 **University of Queensland, St Lucia, Queensland**
 July 2015 – July 2017
