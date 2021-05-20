@@ -9,28 +9,32 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 
 ### Education
 
-**University of Queensland, St Lucia, Queensland**
-*Current*
-PhD, Molecular Fisheries Laboratory
--Thesis Topic: Genomics for monitoring shark populations.
+**PhD, Molecular Fisheries Laboratory**
+- University of Queensland, St Lucia, Queensland
+*- Current*
 
--Details: Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations
 
--Supervisor: Prof Jennifer Ovenden
+*Thesis Topic:* Genomics for monitoring shark populations.
 
-**University of Queensland, St Lucia, Queensland**
-July 2015 – July 2017
-Coursework Masters in Bioinformatics (2 years)
+*Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations
 
-**Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Tasmania**
-2011-2014
-B. Applied Science with Honors (Marine Environment)
+*Supervisor:* Prof Jennifer Ovenden
+
+**Coursework Masters in Bioinformatics (2 years)**
+- University of Queensland, St Lucia, Queensland
+- *July 2015 – July 2017*
+
+
+**B. Applied Science with Honors (Marine Environment)**
+- Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Tasmania
+-*2011-2014*
+
 
 ### Recent Professional History (Academic)
 *2018-Current*
 **Tutors@UQ, University of Queensland**
 The University of Queensland, St Lucia
-Teaching Assistant
+- Teaching Assistant
 
 Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
 
@@ -50,30 +54,30 @@ PhD student on Project GenoJaws where her focus is contemporary and retrospectiv
 
 *2016-2017*         
 **Diamantina Institute, Translational Research Institute (TRI)**
-Brisbane, Queensland
-UQ Advantage Scholarship Summer Intern
+- Brisbane, Queensland
+- UQ Advantage Scholarship Summer Intern
 
 Working under Dr. Kim-Ahn Le Cao. Utilizing R, command line and python tools to test and implement mixOmics (multi-‘omic’ statistical methods) on biological data. Responsible for writing and publishing web content; maintaining and creating web tutorials; monitoring and responding to user-queries/technical issues.
 
 *2014-2015*         
 **Australian Seafood Industries (ASI)**
-Hobart, Tasmania
-Research Officer Assistant
+- Hobart, Tasmania
+- Research Officer Assistant
 
 Contributed to selective breeding research for disease resistance, phenotype and growth characteristics in Pacific Oysters. Danielle worked closely with both industry and research organizations including IMAS & CSIRO.
 
 *2014-2015*         
 **ITAS, University of Tasmania**
-Launceston Tasmania
-ITAS Tutor
+- Launceston Tasmania
+- ITAS Tutor
 
 Provided theoretical tuition on subject specific content including the key discipline concepts, developing flexible learning alternatives, encouraged students to improve their academic skills, liaised with faculty staff and utilized alternative sources and services available within the university to improve the learning experience.
 
 
 *2011-2015*         
 **Student Center, University of Tasmania**
-Launceston, Tasmania
-Student Learning Mentor
+- Launceston, Tasmania
+- Student Learning Mentor
 A peer mentor for undergraduate and postgraduate students, assisted with academic skills including report writing, essay structure, argument development and writing style. Danielle was a member of the winning team presented with the 2013 Teaching Merit Award.
 
 
