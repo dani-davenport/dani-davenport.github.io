@@ -51,7 +51,7 @@ University of Queensland, St Lucia, Queensland<br>
 
 <br>*2014-2015*
 <br>**ITAS, University of Tasmania**
-I<br>TAS Tutor - Launceston Tasmania
+<br>ITAS Tutor - Launceston Tasmania
 <br>Description: Provided theoretical tuition on subject specific content including the key discipline concepts, developing flexible learning alternatives, encouraged students to improve their academic skills, liaised with faculty staff and utilized alternative sources and services available within the university to improve the learning experience.
 
 
