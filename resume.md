@@ -43,7 +43,7 @@ The University of Queensland, St Lucia, Teaching Assistant
 
 Description: Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
 
-*2020 (Jan-March)*
+*2020 (Jan-March)*      
 **UQ Graduate School Career Development Intern, NOAA, Seattle, Washington, USA**
 North West Fisheries Science Center, NOAA, Seattle, Intern
 
