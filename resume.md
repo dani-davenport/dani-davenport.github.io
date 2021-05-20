@@ -16,10 +16,10 @@ University of Queensland, St Lucia, Queensland<br>
 *Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations<br>
 *Supervisor:* Prof Jennifer Ovenden 
 
-**Coursework Masters in Bioinformatics (2 years)** 
+**Coursework Masters in Bioinformatics (2 years)**
 <br>University of Queensland, St Lucia, Queensland (*July 2015 – July 2017*)    
 
-**B. Applied Science with Honors (Marine Environment)** 
+**B. Applied Science with Honors (Marine Environment)**
 <br>Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*) 
 
 ### Recent Professional History (Academic)
@@ -29,12 +29,12 @@ University of Queensland, St Lucia, Queensland<br>
 <br>Teaching Assistant -The University of Queensland, St Lucia 
 <br>Description: Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
 
-<br>*2020 (Jan-March)*      
+<br>*2020 (Jan-March)*
 <br>**UQ Graduate School Career Development Intern, NOAA, Seattle, Washington, USA** 
 <br>Intern - North West Fisheries Science Center, NOAA, Seattle 
 Description: Working under Prof. Robin Waples, utilizing individual level genomic population simulations to address the conundrum of genetic distance and demographic independence for applications to fisheries management.
 
-<br>*2017 – Current*  
+<br>*2017 – Current*
 <br>**Molecular Fisheries Laboratory, University of Queensland**
 <br>PhD Student - School of Biomedical Sciences, St Lucia, Queensland
 <br>Description: PhD student on Project GenoJaws where her focus is contemporary and retrospective genomic analysis of white sharks. Work collaboratively with various data sets (genetic, temporal, environmental, morphological) to understand populations of marine species under the supervision of Prof. Jenny Ovenden. I has worked on population level projects for both conservation of species and commercial fisheries, and works as part of a broader group consulting on government reports and fisheries projects.
@@ -44,12 +44,12 @@ Description: Working under Prof. Robin Waples, utilizing individual level genomi
 <br>UQ Advantage Scholarship Summer Intern - Brisbane, Queensland
 <br>Description: Working under Dr. Kim-Ahn Le Cao. Utilizing R, command line and python tools to test and implement mixOmics (multi-‘omic’ statistical methods) on biological data. Responsible for writing and publishing web content; maintaining and creating web tutorials; monitoring and responding to user-queries/technical issues.
 
-<br>*2014-2015*      
+<br>*2014-2015*
 <br>**Australian Seafood Industries (ASI)**
 <br>Research Officer Assistant - Hobart, Tasmania
 <br>Description: Contributed to selective breeding research for disease resistance, phenotype and growth characteristics in Pacific Oysters. Danielle worked closely with both industry and research organizations including IMAS & CSIRO.
 
-<br>*2014-2015* 
+<br>*2014-2015*
 <br>**ITAS, University of Tasmania**
 I<br>TAS Tutor - Launceston Tasmania
 <br>Description: Provided theoretical tuition on subject specific content including the key discipline concepts, developing flexible learning alternatives, encouraged students to improve their academic skills, liaised with faculty staff and utilized alternative sources and services available within the university to improve the learning experience.
