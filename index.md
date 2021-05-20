@@ -3,7 +3,7 @@ layout: page
 title: Danielle Davenport
 subtitle: "PhD Student, The University of Queensland"
 ---
-# About Me:
+# About Me
 
 My name is Dani Davenport.
 
