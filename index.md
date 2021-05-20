@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Danielle Davenport
-subtitle: "Hey!"
+subtitle: "PhD Student, The University of Queensland"
 ---
-# Hey!
+# About Me:
 
 My name is Dani Davenport.
 
