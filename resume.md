@@ -10,8 +10,10 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 ### Education
 
 **PhD, Molecular Fisheries Laboratory**
--University of Queensland, St Lucia, Queensland
-*-Current*
+
+University of Queensland, St Lucia, Queensland
+
+*2017 - Current*
 
 *Thesis Topic:* Genomics for monitoring shark populations.
 
@@ -20,13 +22,17 @@ I am a PhD researcher working in the Molecular Fisheries Laboratory at the Unive
 *Supervisor:* Prof Jennifer Ovenden
 
 **Coursework Masters in Bioinformatics (2 years)**
--University of Queensland, St Lucia, Queensland
--*July 2015 – July 2017*
+
+University of Queensland, St Lucia, Queensland
+
+*July 2015 – July 2017*
 
 
 **B. Applied Science with Honors (Marine Environment)**
--Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Tasmania
--*2011-2014*
+
+Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Tasmania
+
+*2011-2014*
 
 
 ### Recent Professional History (Academic)
