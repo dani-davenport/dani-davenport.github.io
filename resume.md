@@ -4,27 +4,26 @@ title: Resume
 subtitle: Danielle Davenport
 ---
 
-
-I am a PhD researcher working in the Molecular Fisheries Laboratory at the University of Queensland investigating global populations of  sharks across temporal and spatial scales. Experienced student mentor and tutor; adept in R, python and bash scripting, with an emphasis on population genomic analysis for conservation and management outcomes.
+An ERC interested in population genetics and genomics with an emphasis on practical applications for conservation and management outcomes in the marine environment. Adept in R, Python, HPC and bash scripting, report and manuscript writing.
 
 ### Education
 
 **PhD, Molecular Fisheries Laboratory**<br>
-University of Queensland, St Lucia, Queensland (*2017 - Current*)
+University of Queensland, St Lucia, Queensland (*2017 - 2022*)
 <br>*Thesis Topic:* Genomics for monitoring shark populations<br>
-*Details:* Three-and-a-half-year program, applied research using genomic methods and theory for the management and conservation of shark populations<br>
+*Details:* A comprehensive program performing research and work placements with a focus on applied research using genomic methods and theory for the management and conservation of marine populations<br>
 *Supervisor:* Prof Jennifer Ovenden
 
 **Coursework Masters in Bioinformatics (2 years)**
 <br>University of Queensland, St Lucia, Queensland (*July 2015 – July 2017*)    
 
 **B. Applied Science with Honors (Marine Environment)**
-<br>Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*) 
+<br>Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (*2011-2014*)
 
 ### Recent Professional History (Academic)
 
-*2018-Current*
-<br>**Tutors@UQ, University of Queensland** 
+*2018-2022*
+<br>**Tutors@UQ, University of Queensland**
 <br>Teaching Assistant - The University of Queensland, St Lucia
 <br>Description: Currently working as a teaching assistant delivering course content at the undergraduate and masters level. I teach into courses including Analysis and communication of Biological Data implementing skills in statistical and mathematical modelling and R-scripting. Introduction to Bioinformatics (masters level) tutoring technical skills in Galaxy, bash scripting, HPC use and bioinformatics concepts. Introduction to Bioinformatics (undergraduate level) tutoring skills in computing including bash-scripting, python and bioinformatics algorithms. Advanced Bioinformatics (masters & undergraduate level) tutoring technical skills in python, algorithms and bioinformatics concepts. Introduction to Cell Biology (undergraduate level) tutoring students in the use of histology to answer scientific questions.
 
@@ -33,7 +32,7 @@ University of Queensland, St Lucia, Queensland (*2017 - Current*)
 <br>Intern - North West Fisheries Science Center, NOAA, Seattle
 <br>Description: Working under Prof. Robin Waples, utilizing individual level genomic population simulations to address the conundrum of genetic distance and demographic independence for applications to fisheries management.
 
-<br>*2017 – Current*
+<br>*2017 – 2022*
 <br>**Molecular Fisheries Laboratory, University of Queensland**
 <br>PhD Student - School of Biomedical Sciences, St Lucia, Queensland
 <br>Description: PhD student on Project GenoJaws where her focus is contemporary and retrospective genomic analysis of white sharks. Work collaboratively with various data sets (genetic, temporal, environmental, morphological) to understand populations of marine species under the supervision of Prof. Jenny Ovenden. I has worked on population level projects for both conservation of species and commercial fisheries, and works as part of a broader group consulting on government reports and fisheries projects.
@@ -62,9 +61,17 @@ University of Queensland, St Lucia, Queensland (*2017 - Current*)
 
 ### Peer-Reviewed Publications
 
-Taillebois, L., **Davenport, D.**, Barton, DP., Crook, DA., Saunders, T., Hearnden, M., Saunders, RJ., Newman, SJ., Travers, MJ., Dudgeon, C., Maher, S., Ovenden, J. (2021). Integrated analyses of SNP-genotype and environment data in a continuously distributed snapper (*Lutjanus johnii*, Bloch, 1972) reveals a mosaic of populations and challenges for sustainable fisheries management. ICES Journal of Marine Science. In Press.
+Davenport, D., et al. Genetic signatures of population decline in the white shark (Carcharodon carcharias, L.); a natural history investigation. In Prep.
 
-**Davenport, D.**, Butcher, P., Andreotti, S., Matthee, C., Jones, A., Ovenden, J., ‘Effective number of white shark (*Carcharodon carcharias*, Linnaeus) breeders is stable over four successive years in the population adjacent to eastern Australia and New Zealand’. Ecology & Evolution, In Press.
+Davenport, D., et al. Genomic natural history investigation of population structure in globally distributed white sharks, Carcharodon carcharias, L. In Prep.
+
+Davenport, D., Waples., R. Population dynamics and genetic distance. In prep.
+
+Devloo-Delva, F., Burridge, C.P., Armstrong, A., Davenport, D., Dudgeon, C., Green, M.E.,  Hirschfeld, M., Junge, C., Kyne, P.M., Manuzzi, A., Ovenden, J.O., Pazmiño, D., Portnoy, D.S., Maes, G.E., Feutry, P. Sex chromosomes in Chondrichthyes: Evolutionary stability of the sex-chromosome systems of 21 shark and ray species through sex-linked markers. In prep.
+
+Taillebois, L., **Davenport, D.**, Barton, DP., Crook, DA., Saunders, T., Hearnden, M., Saunders, RJ., Newman, SJ., Travers, MJ., Dudgeon, C., Maher, S., Ovenden, J. (2021). Integrated analyses of SNP-genotype and environment data in a continuously distributed snapper (*Lutjanus johnii*, Bloch, 1972) reveals a mosaic of populations and challenges for sustainable fisheries management. ICES Journal of Marine Science, 2021.
+
+**Davenport, D.**, Butcher, P., Andreotti, S., Matthee, C., Jones, A., Ovenden, J., ‘Effective number of white shark (*Carcharodon carcharias*, Linnaeus) breeders is stable over four successive years in the population adjacent to eastern Australia and New Zealand’. Ecology & Evolution, 2020.
 
 Ovenden, J., **Davenport, D.**, Moore, A., ‘A perfect storm of genetic drift and divergence may prevent the rebuilding of the gemfish (*Rexea solandri*) stock on the east Australian coast’. Fisheries Research, 2020
 
