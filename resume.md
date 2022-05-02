@@ -61,18 +61,18 @@ University of Queensland, St Lucia, Queensland (*2017 - 2022*)
 
 ### Peer-Reviewed Publications
 
-Davenport, D., et al. Genetic signatures of population decline in the white shark (Carcharodon carcharias, L.); a natural history investigation. In Prep.
+**Davenport, D.,** et al. Genetic signatures of population decline in the white shark (Carcharodon carcharias, L.); a natural history investigation. In Prep.
 
-Davenport, D., et al. Genomic natural history investigation of population structure in globally distributed white sharks, Carcharodon carcharias, L. In Prep.
+**Davenport, D.,** et al. Genomic natural history investigation of population structure in globally distributed white sharks, Carcharodon carcharias, L. In Prep.
 
-Davenport, D., Waples., R. Population dynamics and genetic distance. In prep.
+**Davenport, D.,** Waples., R. Population dynamics and genetic distance. In prep.
 
-Devloo-Delva, F., Burridge, C.P., Armstrong, A., Davenport, D., Dudgeon, C., Green, M.E.,  Hirschfeld, M., Junge, C., Kyne, P.M., Manuzzi, A., Ovenden, J.O., Pazmiño, D., Portnoy, D.S., Maes, G.E., Feutry, P. Sex chromosomes in Chondrichthyes: Evolutionary stability of the sex-chromosome systems of 21 shark and ray species through sex-linked markers. In prep.
+Devloo-Delva, F., Burridge, C.P., Armstrong, A., **Davenport, D.,** Dudgeon, C., Green, M.E.,  Hirschfeld, M., Junge, C., Kyne, P.M., Manuzzi, A., Ovenden, J.O., Pazmiño, D., Portnoy, D.S., Maes, G.E., Feutry, P. Sex chromosomes in Chondrichthyes: Evolutionary stability of the sex-chromosome systems of 21 shark and ray species through sex-linked markers. In prep.
 
-Taillebois, L., **Davenport, D.**, Barton, DP., Crook, DA., Saunders, T., Hearnden, M., Saunders, RJ., Newman, SJ., Travers, MJ., Dudgeon, C., Maher, S., Ovenden, J. (2021). Integrated analyses of SNP-genotype and environment data in a continuously distributed snapper (*Lutjanus johnii*, Bloch, 1972) reveals a mosaic of populations and challenges for sustainable fisheries management. ICES Journal of Marine Science, 2021.
+Taillebois, L., **Davenport, D.,** Barton, DP., Crook, DA., Saunders, T., Hearnden, M., Saunders, RJ., Newman, SJ., Travers, MJ., Dudgeon, C., Maher, S., Ovenden, J. (2021). Integrated analyses of SNP-genotype and environment data in a continuously distributed snapper (*Lutjanus johnii*, Bloch, 1972) reveals a mosaic of populations and challenges for sustainable fisheries management. ICES Journal of Marine Science, 2021.
 
 **Davenport, D.**, Butcher, P., Andreotti, S., Matthee, C., Jones, A., Ovenden, J., ‘Effective number of white shark (*Carcharodon carcharias*, Linnaeus) breeders is stable over four successive years in the population adjacent to eastern Australia and New Zealand’. Ecology & Evolution, 2020.
 
-Ovenden, J., **Davenport, D.**, Moore, A., ‘A perfect storm of genetic drift and divergence may prevent the rebuilding of the gemfish (*Rexea solandri*) stock on the east Australian coast’. Fisheries Research, 2020
+Ovenden, J., **Davenport, D.,** Moore, A., ‘A perfect storm of genetic drift and divergence may prevent the rebuilding of the gemfish (*Rexea solandri*) stock on the east Australian coast’. Fisheries Research, 2020
 
 Bridle, AR., **Davenport, D.**, Crosbie, PB., Polinski, M., Nowak, BF., ‘Neoparameoba loses virulence during clonal culture’, International Journal of Parasitology, 2015.
