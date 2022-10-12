@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Danielle Davenport
-subtitle: "PhD Student, The University of Queensland"
+subtitle: "Postdoctoral Reseach Fellow - Bedford Institute of Oceanography"
 ---
 # About Me
 
