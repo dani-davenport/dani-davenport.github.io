@@ -3,9 +3,6 @@ layout: page
 title: Resume
 subtitle: Danielle Davenport
 ---
-
-An ERC interested in population genetics and genomics with an emphasis on practical applications for conservation and management outcomes in the marine environment. Adept in R, Python, HPC and bash scripting, report and manuscript writing.
-
 ### Education
 
 **PhD, Molecular Fisheries Laboratory**<br>
