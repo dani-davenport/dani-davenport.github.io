@@ -4,7 +4,7 @@ title: News
 subtitle: What's been happening?
 ---
 
-## Climate chaos: Can calnus copepods cope? <br>
+## Climate chaos: Can Calanus copepods cope? <br>
 Details to come
 
 ## Sex chromosomes in sharks <br>
