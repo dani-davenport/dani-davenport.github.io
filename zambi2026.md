@@ -1,4 +1,4 @@
-# Two decade genomic time series tracks pesticide resistance in salmon louse (Lepeophtherius salmonis)
+Two decade genomic time series tracks pesticide resistance in salmon louse (Lepeophtherius salmonis)
 #### Authors: **Dani Davenport**, Tony Kess, Steven Duffy, Nicole Smith, Martha Robertson, Lisa Stöger, Chantelle Burke, Travis Van Leeuwen, Tim Sheehan, John Carr, Terry Bungay, Ian Bradbury  
   
 
